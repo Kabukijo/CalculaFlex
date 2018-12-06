@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684890965657",
+    "firebase_url": "https://calculaflex31scj-1d40c.firebaseio.com",
+    "project_id": "calculaflex31scj-1d40c",
+    "storage_bucket": "calculaflex31scj-1d40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684890965657:android:65ce0fc4d194f2f4",
+        "android_client_info": {
+          "package_name": "com.example.logonrmlocal.calculafiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684890965657-jfsjv1irlgoe4khggf75tb8v65lgqf19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logonrmlocal.calculafiles",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "684890965657-f37akamfgv3h0ctu9hk21inegnelmsm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApEujqNMbxHm_Q5MWz6ukUhwDE1iV0gJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684890965657-f37akamfgv3h0ctu9hk21inegnelmsm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
